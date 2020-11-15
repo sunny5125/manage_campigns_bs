@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/manage_campigns_bs/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/manage_campigns_bs/static/js/main.6bbadb39.chunk.js",
+    "main.js.map": "/manage_campigns_bs/static/js/main.6bbadb39.chunk.js.map",
+    "runtime-main.js": "/manage_campigns_bs/static/js/runtime-main.5fab1e88.js",
+    "runtime-main.js.map": "/manage_campigns_bs/static/js/runtime-main.5fab1e88.js.map",
+    "static/js/2.d3188431.chunk.js": "/manage_campigns_bs/static/js/2.d3188431.chunk.js",
+    "static/js/2.d3188431.chunk.js.map": "/manage_campigns_bs/static/js/2.d3188431.chunk.js.map",
+    "static/js/3.25a66e9e.chunk.js": "/manage_campigns_bs/static/js/3.25a66e9e.chunk.js",
+    "static/js/3.25a66e9e.chunk.js.map": "/manage_campigns_bs/static/js/3.25a66e9e.chunk.js.map",
+    "index.html": "/manage_campigns_bs/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/manage_campigns_bs/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d3188431.chunk.js.LICENSE.txt": "/manage_campigns_bs/static/js/2.d3188431.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fab1e88.js",
+    "static/js/2.d3188431.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6bbadb39.chunk.js"
+  ]
+}
